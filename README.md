@@ -8,6 +8,8 @@ I believe that additional explanation is no needed :)
 
 On the following gif you can see how to use it -> let's check it out :)
 
+![How to use](https://)
+
 ## calculation form you can find under the following link:
 
 https://kantares77.github.io/currency-converter/
