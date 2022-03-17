@@ -8,7 +8,7 @@ I believe that additional explanation is no needed :)
 
 On the following gif you can see how to use it -> let's check it out :)
 
-![How to use](https://images/Currency-Conventer_howToUse.gif)
+![How to use] (https://images/Currency-Conventer_howToUse.gif)
 
 ## calculation form you can find under the following link:
 
